@@ -5,9 +5,15 @@
 
 ## 1. Introduction
 
-This project provides a simple of example of:
+This project provides an introductory example of:
 - [Hub and Spoke Models](https://www.youtube.com/watch?v=Pk1iv40FWJU)
 - [Local Project Import](https://docs.looker.com/data-modeling/learning-lookml/importing-projects#importing_local_projects).
+
+It is based a simple core model, with only a single table. This is used by two different customers.
+Customer A has developer access and has added an additional table to their explore.
+Customer B uses the model as-is. Each has access only via a dedicated data connection.
+
+![](https://storage.googleapis.com/jeff-308116-media/Hub%20and%20Spoke%20Overview.png)
 
 ## 2. Role Based Access Controls
 
