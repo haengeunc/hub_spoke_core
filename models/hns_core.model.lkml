@@ -1,3 +1,4 @@
+#connection driven via maniest file
 connection: "@{connection_name}"
 
 label: "Hub & Spoke Development"
