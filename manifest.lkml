@@ -1,6 +1,6 @@
 project_name: "hns_core"
 
 constant: connection_name {
-  value: "jeff-bigquery"
+  value: "bq_looker_hc"
   export: override_required
 }
