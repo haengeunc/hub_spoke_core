@@ -6,6 +6,6 @@ include: "/views/*.view.lkml"
 
 explore: order_items {
   hidden: yes
-  label: "Sales Data"
+  label: "Sales Data - Core"
   description: "This is the core model, shared with every customer"
 }
