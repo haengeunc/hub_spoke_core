@@ -1,4 +1,5 @@
-- dashboard: hub__sales_data_example
+- dashboard: hub
+  #to prevent hub dashboard from being made visible
   extension: required
   title: hub - sales data example
   layout: newspaper
