@@ -1,4 +1,5 @@
 - dashboard: hub__sales_data_example
+  extension: required
   title: hub - sales data example
   layout: newspaper
   preferred_viewer: dashboards-next

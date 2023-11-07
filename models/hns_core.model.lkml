@@ -4,6 +4,7 @@ connection: "@{connection_name}"
 label: "Hub & Spoke Development"
 
 include: "/views/*.view.lkml"
+include: "/dashboards/hub.dashboard.lookml"
 
 
 
